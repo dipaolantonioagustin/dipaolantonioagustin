@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Agustín Di Paolantonio</h1>
-<h3 align="center">Desarrollador.</h3>
+<h3 align="center">Desarrollador</h3>
 
 - 🌱 Actualmente estudiante de Programación en **UAI**
 
